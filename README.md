@@ -17,4 +17,4 @@ o	On average, what % of the attendees will have heard the rumor after 40 days?
 •	 For N= 10,000
 o	After how many days will 10% of the employee devices be affected by the virus?
 o	After how many days will 50% of the employee devices be affected by the virus?
-<img width="468" height="405" alt="image" src="https://github.com/user-attachments/assets/869c2e27-2ec6-4d81-9865-46416c6df117" />
+
